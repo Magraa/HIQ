@@ -3,6 +3,7 @@ Git configuration:
 git config --global user.name "Yourname"
 git config --global user.email <email-id>
 git config --global core.editor nano
+git config --global core.editor notepad      // For Windows
 
 Git Commands:
 
